@@ -11,7 +11,6 @@ function fibonacci(){
     let b = 1
     for (let i=0; i<50; i++){
         temp = a+b
-        console.log(i, a)
         a = b
         b = temp
     }
