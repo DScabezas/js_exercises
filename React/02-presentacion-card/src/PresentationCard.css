@@ -1,0 +1,20 @@
+.presentation-card {
+    background: gray;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.presentation-card img {
+    width: 120px;
+    height: 120px;
+}
+
+.presentation-card p {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
