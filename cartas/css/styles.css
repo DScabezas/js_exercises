@@ -10,16 +10,16 @@ body {
 }
 
 .card {
-    height: 124px;
+    height: 200px;
     width: auto;
-    margin-left: -50px;
+    margin-left: -75px;
 }
 
 .jugador-cartas {
     display: flex;
-    padding-left: 50px;
+    padding-left: 75px;
 }
 
 #jugador, #computadora {
-    height: 156px;
+    height: 200px;
 }
